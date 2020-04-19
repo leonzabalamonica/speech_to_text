@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:1:1-36:12
+MERGED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:1:1-36:12
+MERGED from [:speech_recognition] C:\Users\Monica\Desktop\flutter_speech_to_text-master\build\speech_recognition\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a7947a91c497438beccbfe3f393655bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2c959172c233d529f123f8361127cb29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\457a3dbdc17a49274fa3b618ad15ab8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\69c27d125cc3fb2067e43d4a348b5df9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\865183a4f4087d5fc3db16810f782ddd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b80a2ca8b74848a5fb18d7633f978850\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2757f00ce6ac9bb47357caf0ce4016ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\baac2e3f78c07a241901bf36e72e69d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\1de4e1ada61c2241e861e253afeca40c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cbf6cd0ef58ccefb26890296bd0ef660\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\394e3d8b6597a65a2e2da8b915ec7877\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8636ed7b88474b4f4b82585af192bbc6\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f3c2db494daf08c1742b861ac30c4859\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\55e1319ea94f1a638102e0f547ae548a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\38912a473727fe2130c157cb4e90261d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ad5b7592f14de35d6b67af9f03091569\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8f4060e6e7547d4c08c69c1cf007fbde\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\32bdd8f3ec40de7d7147f2a723d7ad33\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\53a26771daefdd7322ec971ce54d202b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\03d052c41d55dabcffe17fd141da9b53\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\2233f4561c3906fe95247468c6b87ab5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3e6b2038ce48a11befd4dbb88448aeb1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\54346d46e00d257fa96bdc65e9528317\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:2:5-37
+		INJECTED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:10:22-68
+application
+ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:12:5-35:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8636ed7b88474b4f4b82585af192bbc6\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8636ed7b88474b4f4b82585af192bbc6\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\32bdd8f3ec40de7d7147f2a723d7ad33\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\32bdd8f3ec40de7d7147f2a723d7ad33\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8636ed7b88474b4f4b82585af192bbc6\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:15:9-43
+	android:name
+		ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:13:9-57
+activity#com.example.test_audio.MainActivity
+ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:16:9-34:20
+	android:launchMode
+		ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:18:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:21:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:22:13-55
+	android:configChanges
+		ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:20:13-144
+	android:theme
+		ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:19:13-47
+	android:name
+		ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:17:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:27:13-29:40
+	android:value
+		ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:29:17-37
+	android:name
+		ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:28:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml
+MERGED from [:speech_recognition] C:\Users\Monica\Desktop\flutter_speech_to_text-master\build\speech_recognition\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-44
+MERGED from [:speech_recognition] C:\Users\Monica\Desktop\flutter_speech_to_text-master\build\speech_recognition\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a7947a91c497438beccbfe3f393655bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a7947a91c497438beccbfe3f393655bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2c959172c233d529f123f8361127cb29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2c959172c233d529f123f8361127cb29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\457a3dbdc17a49274fa3b618ad15ab8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\457a3dbdc17a49274fa3b618ad15ab8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\69c27d125cc3fb2067e43d4a348b5df9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\69c27d125cc3fb2067e43d4a348b5df9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\865183a4f4087d5fc3db16810f782ddd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\865183a4f4087d5fc3db16810f782ddd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b80a2ca8b74848a5fb18d7633f978850\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b80a2ca8b74848a5fb18d7633f978850\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2757f00ce6ac9bb47357caf0ce4016ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2757f00ce6ac9bb47357caf0ce4016ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\baac2e3f78c07a241901bf36e72e69d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\baac2e3f78c07a241901bf36e72e69d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\1de4e1ada61c2241e861e253afeca40c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\1de4e1ada61c2241e861e253afeca40c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cbf6cd0ef58ccefb26890296bd0ef660\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cbf6cd0ef58ccefb26890296bd0ef660\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\394e3d8b6597a65a2e2da8b915ec7877\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\394e3d8b6597a65a2e2da8b915ec7877\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8636ed7b88474b4f4b82585af192bbc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8636ed7b88474b4f4b82585af192bbc6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f3c2db494daf08c1742b861ac30c4859\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f3c2db494daf08c1742b861ac30c4859\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\55e1319ea94f1a638102e0f547ae548a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\55e1319ea94f1a638102e0f547ae548a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\38912a473727fe2130c157cb4e90261d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\38912a473727fe2130c157cb4e90261d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ad5b7592f14de35d6b67af9f03091569\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ad5b7592f14de35d6b67af9f03091569\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8f4060e6e7547d4c08c69c1cf007fbde\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8f4060e6e7547d4c08c69c1cf007fbde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\32bdd8f3ec40de7d7147f2a723d7ad33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\32bdd8f3ec40de7d7147f2a723d7ad33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\53a26771daefdd7322ec971ce54d202b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\53a26771daefdd7322ec971ce54d202b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\03d052c41d55dabcffe17fd141da9b53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\03d052c41d55dabcffe17fd141da9b53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\2233f4561c3906fe95247468c6b87ab5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\2233f4561c3906fe95247468c6b87ab5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3e6b2038ce48a11befd4dbb88448aeb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3e6b2038ce48a11befd4dbb88448aeb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\54346d46e00d257fa96bdc65e9528317\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Monica\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\54346d46e00d257fa96bdc65e9528317\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\Monica\Desktop\flutter_speech_to_text-master\android\app\src\debug\AndroidManifest.xml:6:22-64
